@@ -44,8 +44,8 @@ To analyze Netflix's growth over the years by exploring its content types, count
 
 ## Dashboard Snapshot
 
-![Netflix Dashboard Screenshot](dashboard_preview.png)  
-*Replace with your Tableau dashboard screenshot.*
+<img width="1470" alt="netflixtableau" src="https://github.com/user-attachments/assets/5a70b134-23bb-4e19-aae9-e6127f7b1cb8" />
+
 
 ---
 
